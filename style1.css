@@ -1,0 +1,44 @@
+a{
+    color: rgb(160, 23, 23);
+}
+nav, a {
+   background-color:rgb(52, 219, 219);
+   font-size: 20px;
+   font: bolder;
+   text-decoration-line: none;
+   line-height-step: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+div{
+    background-color: rgb(39, 109, 175);
+    height: 90px;
+    text-align-last: center;
+    text-size-adjust: 20px;
+}
+table, caption{
+    text-align: center;
+    margin-right: auto;
+    padding:10px;
+}
+p,p{
+    text-align-last: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
